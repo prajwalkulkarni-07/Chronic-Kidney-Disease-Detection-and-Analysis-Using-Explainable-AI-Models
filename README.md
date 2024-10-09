@@ -20,7 +20,7 @@ Explainable AI (XAI) models are crucial because they make machine learning syste
 
 Key benefits of explainable models include:
 
-Trust: Users are more likely to trust and adopt AI systems if they understand the decision-making process.
-Accountability: XAI ensures that AI models can be held accountable, as stakeholders can trace and justify decisions.
-Bias detection: Explainability helps identify and correct biases within models, promoting fairness and ethical AI use.
-Regulatory compliance: Many industries require AI systems to meet certain standards of transparency, making XAI essential for compliance.
+1. Trust: Users are more likely to trust and adopt AI systems if they understand the decision-making process.
+2. Accountability: XAI ensures that AI models can be held accountable, as stakeholders can trace and justify decisions.
+3. Bias detection: Explainability helps identify and correct biases within models, promoting fairness and ethical AI use.
+4. Regulatory compliance: Many industries require AI systems to meet certain standards of transparency, making XAI essential for compliance.
