@@ -1,1 +1,1 @@
-# Chronic-Kidney-Disease-Detection-and-Analysis-Using-Explainable-AI-Models
+## This is a machine learning project, which predicts whether a person has Chronic Kidney Disease or not using the data made available by blood and urine tests. In the later part, influence of each feature on the prediction is calculated using explainable AI models LIME and SHAP.
