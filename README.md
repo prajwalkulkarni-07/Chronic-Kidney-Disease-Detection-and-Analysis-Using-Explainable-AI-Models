@@ -12,7 +12,7 @@ SHAP (SHapley Additive exPlanations) is based on game theory and provides global
 ![image](https://github.com/user-attachments/assets/af63558d-1526-48ac-9c4b-906e6baa58d0)
 
 
-## Usage:
+## Dataset Description:
 The initial dataset had 400 records, of which some were numerical and some were categorical. We preprocessed the data, removed redundant and null values, and converted the categorical values into numeraical ones (like converting 'Yes' to '0' and 'No' to '1') for easier operations on the data. After the preprocessing, predictions were doing using the RNN model, and later, the explainable AI modesl were used to calculate the influence of each feature on the predicition made by the model.
 
 ## Importance of Explainable AI Models:
